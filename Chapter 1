@@ -1,0 +1,26 @@
+using UnityEngine;
+using System.Collections;
+public class scrip1 : MonoBehaviour {
+public GameObject SpawnPoint;
+public GameObject Ball;
+GameObject shootingball;
+GameObject temp;
+GameObject cameral;
+bool goRight = true;
+
+//Contoh//
+print "hello, how old are you?"
+umur = io.read("*n")
+if umur &gt;= 18 then
+   print("Hallo Mother")
+else
+   print("Halo Child")
+end
+
+//Contoh//
+public class HelloWorld {
+   public static void main(String[] args) {
+     System.out.println("Hello World");
+   }
+  }
+}
