@@ -1,0 +1,10 @@
+//contoh//
+function hitungUmur ()
+
+  local varKalimat = "Andini Akan Berumurr"
+  varUmur = 22
+  varTanggalLahir = "Pada Tahun 2023"
+  
+  print(varUmur..varKalimat..varTanggalLahir)
+  
+  end
